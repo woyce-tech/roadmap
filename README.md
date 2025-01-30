@@ -2,41 +2,41 @@
 
 ## Phases
 
-1. [Phase 1: Fundamentals (1-2 Months)](./fullstack-phase-1.md)
-2. [Phase 2: Front-End Development (2-3 Months)](./fullstack-phase-2.md)
-3. [Phase 3: Back-End Development (2-3 Months)](./fullstack-phase-3.md)
-4. [Phase 4: Full-Stack Integration (2-3 Months)](./fullstack-phase-4.md)
-5. [Phase 5: Advanced Concepts (2-3 Months)](./fullstack-phase-5.md)
+1. [Phase 1: Fundamentals (1-2 Months)](./fullstack/fullstack-phase-1.md)
+2. [Phase 2: Front-End Development (2-3 Months)](./fullstack/fullstack-phase-2.md)
+3. [Phase 3: Back-End Development (2-3 Months)](./fullstack/fullstack-phase-3.md)
+4. [Phase 4: Full-Stack Integration (2-3 Months)](./fullstack/fullstack-phase-4.md)
+5. [Phase 5: Advanced Concepts (2-3 Months)](./fullstack/fullstack-phase-5.md)
 
 # Node.js Backend Developer Roadmap (6-12 Months Plan)
 
 ### Phases
 
-1. [Phase 1: Fundamentals (1-2 Months)](./nodejs-phase-1.md)
-2. [Phase 2: Backend Development with Node.js (2-3 Months)](./nodejs-phase-2.md)
-3. [Phase 3: Database Management (2-3 Months)](./nodejs-phase-3.md)
-4. [Phase 4: Advanced Backend Concepts (2-3 Months)](./nodejs-phase-4.md)
-5. [Phase 5: Deployment and Monitoring (2-3 Months)](./nodejs-phase-5.md)
+1. [Phase 1: Fundamentals (1-2 Months)](./nodejs/nodejs-phase-1.md)
+2. [Phase 2: Backend Development with Node.js (2-3 Months)](./nodejs/nodejs-phase-2.md)
+3. [Phase 3: Database Management (2-3 Months)](./nodejs/nodejs-phase-3.md)
+4. [Phase 4: Advanced Backend Concepts (2-3 Months)](./nodejs/nodejs-phase-4.md)
+5. [Phase 5: Deployment and Monitoring (2-3 Months)](./nodejs/nodejs-phase-5.md)
 
 # React.js Front-End Developer Roadmap (6-12 Months Plan)
 
 ### Phases
 
-1. [Phase 1: Fundamentals (1-2 Months)](./reactjs-phase-1.md)
-2. [Phase 2: Front-End Development with React.js (2-3 Months)](./reactjs-phase-2.md)
-3. [Phase 3: State Management (2-3 Months)](./reactjs-phase-3.md)
-4. [Phase 4: Advanced React Concepts (2-3 Months)](./reactjs-phase-4.md)
-5. [Phase 5: Testing and Deployment (2-3 Months)](./reactjs-phase-5.md)
+1. [Phase 1: Fundamentals (1-2 Months)](./reactjs/reactjs-phase-1.md)
+2. [Phase 2: Front-End Development with React.js (2-3 Months)](./reactjs/reactjs-phase-2.md)
+3. [Phase 3: State Management (2-3 Months)](./reactjs/reactjs-phase-3.md)
+4. [Phase 4: Advanced React Concepts (2-3 Months)](./reactjs/reactjs-phase-4.md)
+5. [Phase 5: Testing and Deployment (2-3 Months)](./reactjs/reactjs-phase-5.md)
 
 # Angular Front-End Developer Roadmap (6-12 Months Plan)
 
 ### Phases
 
-1. [Phase 1: Fundamentals (1-2 Months)](./angular-phase-1.md)
-2. [Phase 2: Front-End Development with Angular (2-3 Months)](./angular-phase-2.md)
-3. [Phase 3: State Management (2-3 Months)](./angular-phase-3.md)
-4. [Phase 4: Advanced Angular Concepts (2-3 Months)](./angular-phase-4.md)
-5. [Phase 5: Testing and Deployment (2-3 Months)](./angular-phase-5.md)
+1. [Phase 1: Fundamentals (1-2 Months)](./angular/angular-phase-1.md)
+2. [Phase 2: Front-End Development with Angular (2-3 Months)](./angular/angular-phase-2.md)
+3. [Phase 3: State Management (2-3 Months)](./angular/angular-phase-3.md)
+4. [Phase 4: Advanced Angular Concepts (2-3 Months)](./angular/angular-phase-4.md)
+5. [Phase 5: Testing and Deployment (2-3 Months)](./angular/angular-phase-5.md)
 
 ## Prerequisites
 
