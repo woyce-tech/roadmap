@@ -7,3 +7,7 @@
 3. [Phase 3: Back-End Development (2-3 Months)](./phase-3.md)
 4. [Phase 4: Full-Stack Integration (2-3 Months)](./phase-4.md)
 5. [Phase 5: Advanced Concepts (2-3 Months)](./phase-5.md)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
