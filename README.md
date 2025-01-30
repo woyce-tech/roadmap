@@ -38,6 +38,16 @@
 4. [Phase 4: Advanced Angular Concepts (2-3 Months)](./angular/angular-phase-4.md)
 5. [Phase 5: Testing and Deployment (2-3 Months)](./angular/angular-phase-5.md)
 
+# AWS DevOps Roadmap (6-12 Months Plan)
+
+### Phases
+
+1. [Phase 1: AWS Fundamentals (1-2 Months)](./aws-devops/aws-devops-phase-1.md)
+2. [Phase 2: Infrastructure as Code (2-3 Months)](./aws-devops/aws-devops-phase-2.md)
+3. [Phase 3: Continuous Integration and Continuous Deployment (2-3 Months)](./aws-devops/aws-devops-phase-3.md)
+4. [Phase 4: Monitoring and Logging (2-3 Months)](./aws-devops/aws-devops-phase-4.md)
+5. [Phase 5: Security and Compliance (2-3 Months)](./aws-devops/aws-devops-phase-5.md)
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
